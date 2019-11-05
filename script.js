@@ -53,6 +53,6 @@
         // add onscreen class to the next image and dot
         images[current].classList.add('onscreen');
         dots[current].classList.add('on');
-        console.log('The NEW current image is ' + current);
+        // console.log('The new current image is ' + current);
     }
 })();
