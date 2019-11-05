@@ -5,7 +5,7 @@
 This site is a plain image carousel made with Vanilla JavaScript, CSS, HTML.
 
 
-Images move continuesly one after the other. Dots show the current image sequence. By clicking on a dot the certain image slides in. Rebuild and have fun!
+Images move continuesly one after another. Dots show the current image sequence. By clicking on a dot the certain image slides in. Rebuild and have fun!
 
 ### Demo
 
