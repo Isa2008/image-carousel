@@ -8,8 +8,6 @@ Images move continuesly one after another. Dots show the current image sequence.
 
 Try it out here https://isa2008.github.io/image-carousel/
 
-### Demo
-
 ![Alt Text](demo-pics-gifs/image-carousel-2.gif)
 
 Images are taken of a show of my collective 2008daughters at DUVE gallery Berlin, photos by Bennie Julian Gay.
