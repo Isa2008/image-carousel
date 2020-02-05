@@ -4,7 +4,7 @@ This site is a plain image carousel made with Vanilla JavaScript, CSS, HTML.
 
 Try it out here https://isa2008.github.io/image-carousel/
 
-![Alt Text](demo-pics-gifs/image-carousel-3.png)
+![Alt Text](demo-pics-gifs/image-carousel.png)
 
 Images move continuesly one after another. Dots show the current image sequence. By clicking on a dot the set image slides in. It's responsive. Rebuild and have fun!
 
