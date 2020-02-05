@@ -1,13 +1,13 @@
 # Image Carousel
 
-TECH STACK: 
+TECH STACK:\
 HTML & CSS & VANILLA JAVASCRIPT
 
 Try it out here https://isa2008.github.io/image-carousel/
 
 ![Alt Text](demo-pics-gifs/image-carousel-demo.png)
 
-FEATURES:
+FEATURES:\
 Images move continuesly one after another.\
 Dots show the current image sequence.\
 By clicking on a dot the set image slides in.\
