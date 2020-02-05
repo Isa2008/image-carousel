@@ -1,11 +1,13 @@
 # Image Carousel
 
-This site is a plain image carousel made with Vanilla JavaScript, CSS, HTML.
+TECH STACK: 
+HTML & CSS & VANILLA JAVASCRIPT
 
 Try it out here https://isa2008.github.io/image-carousel/
 
-![Alt Text](demo-pics-gifs/image-carousel.png)
+![Alt Text](demo-pics-gifs/image-carousel-demo.png)
 
+FEATURES:
 Images move continuesly one after another.\
 Dots show the current image sequence.\
 By clicking on a dot the set image slides in.\
