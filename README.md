@@ -3,7 +3,8 @@
 TECH STACK:\
 HTML & CSS & VANILLA JAVASCRIPT
 
-Try it out here https://isa2008.github.io/image-carousel/
+DEMO:\
+https://isa2008.github.io/image-carousel/
 
 ![Alt Text](demo-pics-gifs/image-carousel-demo.png)
 
